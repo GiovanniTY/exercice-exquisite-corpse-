@@ -9,3 +9,6 @@
 # 7. Je m'appelle Tom
 ## 8. J'ai 25 ans
 ### 9. Je suis dresseur de Pokemon
+# 1. Je m'appelle Iliess
+## 2. J'ai 23 ans
+### 3. Je suis Pirate ( Le Roi des pirates ça seras Moi)
